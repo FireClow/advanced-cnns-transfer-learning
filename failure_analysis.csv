@@ -1,0 +1,9 @@
+True Label,Predicted Label,Confidence,Hypothesis
+American Bulldog,Beagle,0.8877049684524536,"Periksa kemiripan ciri visual, sudut gambar, pencahayaan, dan latar."
+American Bulldog,Boxer,0.7550348043441772,"Periksa kemiripan ciri visual, sudut gambar, pencahayaan, dan latar."
+American Bulldog,Beagle,0.6257367134094238,"Periksa kemiripan ciri visual, sudut gambar, pencahayaan, dan latar."
+Bengal,Abyssinian,0.663870632648468,"Periksa kemiripan ciri visual, sudut gambar, pencahayaan, dan latar."
+Boxer,American Bulldog,0.5679123997688293,"Periksa kemiripan ciri visual, sudut gambar, pencahayaan, dan latar."
+Birman,Persian,0.4589138329029083,"Periksa kemiripan ciri visual, sudut gambar, pencahayaan, dan latar."
+Bengal,Abyssinian,0.462157666683197,"Periksa kemiripan ciri visual, sudut gambar, pencahayaan, dan latar."
+Beagle,Abyssinian,0.3523138463497162,"Periksa kemiripan ciri visual, sudut gambar, pencahayaan, dan latar."

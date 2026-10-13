@@ -1,0 +1,8 @@
+{
+    "experiment": "B5 - EfficientNet-B0 Feature Extraction",
+    "total_parameters": 4020358,
+    "trainable_parameters": 12810,
+    "duration_seconds": 120.8622,
+    "test_accuracy": 0.9,
+    "test_macro_f1": 0.9008253217861115
+}

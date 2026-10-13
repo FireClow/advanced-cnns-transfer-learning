@@ -1,0 +1,46 @@
+[
+  {
+    "Experiment":"B1 - From Scratch",
+    "Trainable Parameters":11181642,
+    "Best Epoch":14,
+    "Best Validation Loss":1.6733430976,
+    "Validation Accuracy":0.4697986577,
+    "Test Accuracy":0.3733333333,
+    "Test Macro F1":0.3721408221,
+    "Duration (seconds)":135.5376474857,
+    "Augmentation":true
+  },
+  {
+    "Experiment":"B2 - Feature Extraction",
+    "Trainable Parameters":5130,
+    "Best Epoch":12,
+    "Best Validation Loss":0.2713730449,
+    "Validation Accuracy":0.9261744966,
+    "Test Accuracy":0.9066666667,
+    "Test Macro F1":0.9061321408,
+    "Duration (seconds)":118.4368758202,
+    "Augmentation":true
+  },
+  {
+    "Experiment":"B3 - Fine-Tuning",
+    "Trainable Parameters":8398858,
+    "Best Epoch":2,
+    "Best Validation Loss":0.238407323,
+    "Validation Accuracy":0.932885906,
+    "Test Accuracy":0.92,
+    "Test Macro F1":0.9192898314,
+    "Duration (seconds)":40.5579407215,
+    "Augmentation":true
+  },
+  {
+    "Experiment":"B4 - No Augmentation",
+    "Trainable Parameters":5130,
+    "Best Epoch":15,
+    "Best Validation Loss":0.2633149882,
+    "Validation Accuracy":0.9060402685,
+    "Test Accuracy":0.9266666667,
+    "Test Macro F1":0.9261543495,
+    "Duration (seconds)":88.991140604,
+    "Augmentation":false
+  }
+]
